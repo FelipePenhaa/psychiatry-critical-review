@@ -20,6 +20,7 @@ The publication of the DSM-III (1980) replaced complex theories with behavioral 
 
 **Phase 4: Regulatory Capture & Systemic Lock-In (1990 – Present)**
 The final step was the bureaucratic harmonization of low evidence standards. The **International Council for Harmonisation (ICH)**, founded in 1990 by regulators and pharmaceutical companies, established short-term, subjective trials as the global regulatory norm. This created a closed "Iron Triangle" of **Industry (funding) → Academia (research) → Regulators (approval)**, making the fraud permanent, profitable, and protected from scientific challenge.
+---
 
 ### **Articles of Indictment**
 
